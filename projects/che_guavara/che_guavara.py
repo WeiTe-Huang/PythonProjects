@@ -1,5 +1,5 @@
 """
-File: my_drawing.py
+File: che_guavara.py
 Name: Victor
 ----------------------
 This project is going to draw a picture of color block by campy
