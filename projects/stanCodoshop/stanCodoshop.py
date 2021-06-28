@@ -101,7 +101,6 @@ def solve(images):
 
 def jpgs_in_dir(dir):
     """
-    (provided, DO NOT MODIFY)
     Given the name of a directory, returns a list of the .jpg filenames
     within it.
 
@@ -119,7 +118,6 @@ def jpgs_in_dir(dir):
 
 def load_images(dir):
     """
-    (provided, DO NOT MODIFY)
     Given a directory name, reads all the .jpg files within it into memory and
     returns them in a list. Prints the filenames out as it goes.
 
@@ -138,7 +136,6 @@ def load_images(dir):
 
 
 def main():
-    # (provided, DO NOT MODIFY)
     args = sys.argv[1:]
     # We just take 1 argument, the folder containing all the images.
     # The load_images() capability is provided above.
